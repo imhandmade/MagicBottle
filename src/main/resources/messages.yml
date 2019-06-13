@@ -38,13 +38,13 @@ messages:
     withdraw: '&cYou do not have permission to take experience.'
     command: '&cYou do not have permission to use that command.'
     craft: '&cYou do not have permission to craft that.'
-    
+
   commands:
     correct use: '&cCorrect use: [use]'
     reload completed: '&eConfiguration reloaded.'
     level not valid: '&cLevel must be a number between 0 and 20,000.'
     given bottle: '&eGiven [amount] MagicBottle(s) to [player] with [level] levels.'
-    
+
   repair:
     inventory repaired: '&eSpent &5[xp] &eXP in repairing your tools.'
     enabled autorepair: '&eAutorepair has been &aenabled&e.'
